@@ -26,3 +26,8 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sujitha-d-27&show_icons=true&locale=en&layout=compact" alt="sujitha-d-27" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sujitha-d-27&" alt="sujitha-d-27" /></p>
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
